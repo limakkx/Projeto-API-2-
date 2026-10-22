@@ -1,0 +1,11 @@
+PROMPT UTILIZADO
+
+Usa IA como apoio e desenvolve um projeto académico de CRUD de Clientes em Node.js + Express, aplicando o padrão MVC. O cliente deve ter obrigatoriamente os campos id, nome e email. Cria uma API REST com operações para listar, cadastrar, consultar, alterar e excluir clientes, usando métodos HTTP e respostas JSON. Inclui validação dos campos, CORS para o aplicativo React Native, tratamento dos erros, instruções para executar e testar localmente, e código de um aplicativo React Native/Expo Snack que consuma a API e apresente a lista de clientes. Prepara a estrutura para deploy no Render usando process.env.PORT, adiciona instruções de publicação no GitHub e Render, e não incluas segredos ou credenciais no repositório. Usa como referência o tutorial https://tutorial-nodejs-api-reactnative.vercel.app/ e adapta o exemplo de categorias para clientes. Mantém o projeto simples para abrir no VS Code e inclui testes básicos.
+
+INTELIGÊNCIA ARTIFICIAL UTILIZADA
+
+- Manus AI — apoio à organização MVC, criação do código, validação, testes e documentação.
+
+OBSERVAÇÃO
+
+Os dados deste projeto ficam em memória. Para guardar clientes permanentemente após reiniciar o servidor, é necessário configurar uma base de dados e as credenciais correspondentes.
